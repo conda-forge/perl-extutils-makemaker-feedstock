@@ -1,11 +1,11 @@
-About perl-extutils-makemaker
-=============================
+About perl-extutils-makemaker-feedstock
+=======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-extutils-makemaker-feedstock/blob/main/LICENSE.txt)
 
 Home: https://metacpan.org/release/ExtUtils-MakeMaker
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-extutils-makemaker-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create a module Makefile
 
