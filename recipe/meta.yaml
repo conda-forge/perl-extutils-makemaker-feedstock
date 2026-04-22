@@ -1,5 +1,5 @@
 {% set name = "ExtUtils-MakeMaker" %}
-{% set version = "7.70" %}
+{% set version = "7.78" %}
 
 package:
   name: perl-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://cpan.metacpan.org/authors/id/B/BI/BINGOS/{{ name }}-{{ version }}.tar.gz
-    sha256: f108bd46420d2f00d242825f865b0f68851084924924f92261d684c49e3e7a74
+    sha256: 43b33c20f8d82dba7cc48f8cd702f8fc9811e9d07880886dfd31b7077bd4a3a6
   - url: https://raw.githubusercontent.com/Perl/perl5/v5.32.1/Copying
     sha256: d77d235e41d54594865151f4751e835c5a82322b0e87ace266567c3391a4b912
   - url: https://raw.githubusercontent.com/Perl/perl5/v5.32.1/Artistic
